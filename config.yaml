@@ -1,0 +1,75 @@
+class: Social Studies, 7th period
+
+# Rows of desks and how many desks are in each row.
+rows: 7
+columns: 5
+kids:
+    - name: Chris
+      keep_away_from:
+          - Jon
+          - Thomas
+      keep_near:
+          - Jo Ellen
+          - Joyce
+          - Samantha
+      allowed_rows: [1, 2]
+    - name: Lloyd
+      keep_near:
+          - Lydia
+          - Thomas
+    - name: Thomas
+    - name: Jo Ellen
+      keep_near:
+          - Phil
+          - Sharon
+    - name: Jesse
+      keep_near:
+          - Amber
+    - name: Amber
+    - name: Danny
+      keep_near:
+          - Chrissy
+    - name: Chrissy
+    - name: Mike
+      keep_near:
+          - Linda
+    - name: Linda
+    - name: Derek
+    - name: Julie
+    - name: Jon
+      keep_near:
+          - Julie
+    - name: Rob
+    - name: Andrew
+      keep_near:
+          - Rob
+    - name: Bob
+      keep_near:
+          - Laura
+    - name: Son
+    - name: Lydia
+    - name: Terry
+      keep_near:
+          - Jake
+          - Joey
+          - Jeremy
+    - name: Jeremy
+      keep_near:
+          - Shawntel
+    - name: Jake
+    - name: Joey
+    - name: Samantha
+      keep_near:
+          - Joyce
+    - name: Phil
+    - name: Sharon
+    - name: Joyce
+    - name: Joseph
+      keep_near:
+          - Mary
+    - name: Mary
+    - name: Laura
+    - name: Shawntel
+    - name: Paul
+      keep_near:
+          - Joyce
